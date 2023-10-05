@@ -1,7 +1,7 @@
 # Weather Check
 Medidor Climático ou Weather Check é um projeto de uma estação meteorológica inteligente para coleta, processamento e análise de dados sensoriais para criação de referência temporal de dados e geração de alertas com uso de Machine Learning e IA
 
-![Mobile 1](https://lh3.googleusercontent.com/pw/ADCreHfsz6NmAE_V79lEFHSSMoyOq71m2EbPIrDJXexpQWduaMFotcVF0yCeqcB1wuKEmbvNMgLmGJQX-WK6HZtbOOlXxB5ynYz7adB83BwUHD6gKAPl6ARfitaNE0R-KW-HqewCvTcG4cqSoe4MrEMDjvZ4=w842-h632-s-no?authuser=0)
+![Mobile 1](https://lh3.googleusercontent.com/pw/ADCreHfuF6HR37MGD3vcBfMMtelcuywPE4qT4dE0yTKJUZfSPY90h22NgpLBLBH8uSUKZqqQXKLL3svTXFYUfojqrWviy8_AERt6CV2IGRfYKWGZj1WWH1xpE-hvw9PQOO-Q5Av7wVK3r0XUSiJLloCAtyLi=w842-h632-s-no?authuser=0)
 
 # Sobre o projeto
 
