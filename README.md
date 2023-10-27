@@ -1,11 +1,10 @@
 # Weather Check
 Medidor Climático ou Weather Check é um projeto de uma estação meteorológica inteligente para coleta, processamento e análise de dados sensoriais para criação de referência temporal de dados e geração de alertas com uso de Machine Learning e IA
 
-![Mobile 1](https://lh3.googleusercontent.com/pw/ADCreHfuF6HR37MGD3vcBfMMtelcuywPE4qT4dE0yTKJUZfSPY90h22NgpLBLBH8uSUKZqqQXKLL3svTXFYUfojqrWviy8_AERt6CV2IGRfYKWGZj1WWH1xpE-hvw9PQOO-Q5Av7wVK3r0XUSiJLloCAtyLi=w842-h632-s-no?authuser=0)
-
+![Mobile 1](https://lh3.googleusercontent.com/pw/ADCreHdjKhmMVEm_Ba82Votl0Fcun2LVu3JEs-RpqDECw6wp2iLjcHVpIb33afHCfM3Rd2dKE3kSEkNEk-Ij9G2VCJOaBWH4zWgjnKWxhgp2EdcrBAigpYxs84LK3Ot1tzc1FnP3OypXtwuSrhKq1ZXaBLCztherTls5_sZpW0ZV_FtSD_WxIrXxTtKwCWddvBGSorhWvwyLX6tkCrK0D9GJuzp6gdBjHCTgO1FEy8ZvTuw0fxtEEY0kTzKTM277UZlsn-DN-LuH8Qqi_DiUij60-_2bsW2Xze4bndJpJ8gkGN1M_IpLDoXoR0LULJrspVlgyPWreXnn8Qf_MW6TRAJtf30BGQIv2k45mjaZQUynv56tpxQs_AIZ1cKSrGOHQHMH7Y3au7aOtCJS2DodsN9yh9M7dHwba0fnc-uSBlrzzcByPeiJiuBsr5EY48wqD2667nXXAVOXYgju7w6YrEJXtXblfEAXozaNdRlrzYFUwpZmY2peuT8uH3WcJr59r2VuzXiDNrsYx6C92FdfznPd_KqQfhj4sxJ3TTKvw95NvMZg9sVixX96ywDDUVJJhDbXoLI7sl0122oRcYg-mogkjO_o_UUqutMSwudVklo5mS6Mu-Eoaoqz72I8TWtjrzXheOsNwuh8wC_cESg6hHw37xzU5Wh34el5byGlXsa8UWflbVq3ybC9IFYHXo5uXY4BnYb7Mqkt8eveY0dniDKvf_s5EYKrEFA0b9XQw1vG-V5zSvn7EVICflb0nylYI3aQzMM4IgmTqxWyLPBCG5nlr86fhQpEpIlxC4ihY7dLzHoCHxdbkSFQEWKB8-YQ67O7h21nzPyO-UV3rXKu0e5ZAQPVvaHel5Lu0mehfQi6fqbWLT0k1MsA_3N5dvz7Y7aj6opZWChe3aQZOSTv10CgvX5XE9kyEj4d5bfnpZkTL5h6hVTHK0f9c0fRQgnA9ngarien9xcuy1bU2xKy3JoxnROAV9IduIzY=w721-h597-s-no-gm?authuser=0)
 # Sobre o projeto
 
-https://wmazoni-sds1.netlify.app
+https://wmazoni-sds1.netlify
 
 Big Game Survey é uma aplicação full stack web e mobile construída durante a 1ª edição da **Semana DevSuperior** (#sds1), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
